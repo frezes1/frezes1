@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">🌍 I'm based in Panama<br>🖥️ See my portfolio at <br>✉️ You can contact me at</p>
+* 🌍  I'm based in Panama
+* ✉️  You can contact me at [frezes.dev@gmail.com](mailto:frezes.dev@gmail.com)
 
 ###
 
@@ -38,8 +39,5 @@
 <div align="left">
   <a href="https://discord.com/users/_frezes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-  </a>
-  <a href="mailto:idkwatnameiwillputhere@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
