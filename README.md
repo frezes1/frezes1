@@ -39,7 +39,7 @@
   <a href="https://discord.com/users/_frezes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:idkwatnameiwillputhere@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
 </div>
