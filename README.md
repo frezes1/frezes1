@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">🌍 I'm based in Panama<br>🖥️ See my portfolio at <br>✉️ You can contact me at</p>
 
 ###
