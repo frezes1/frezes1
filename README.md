@@ -7,7 +7,7 @@
 ---
 
 * 🌍  I'm based in Panama
-✉️ You can contact me at [frezes.dev@gmail.com](mailto:frezes.dev@gmail.com)
+* ✉️ You can contact me at [frezes.dev@gmail.com](mailto:frezes.dev@gmail.com)
 ---
 
 ## Skills
